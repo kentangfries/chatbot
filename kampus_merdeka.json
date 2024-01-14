@@ -18,7 +18,6 @@
         "kawan"
       ],
       "responses": [
-        "Hai! ibot di sini. Mau tau informasi tentang apa nih?",
         "Halo! Saya ibot, salam kenal ya! Mau tau tentang kampus merdeka, kan?",
         "Helo! Ini ibot. Lagi kepo tentang kampus merdeka ya?"
       ]
@@ -147,7 +146,8 @@
     {
       "tag": "penjelasan_studi_independen",
       "patterns": [
-        "Apa itu studi independen?"
+        "Apa itu studi independen?",
+        "studi independen itu apa ya?"
       ],
       "responses": [
         "Salah satu program Kampus Merdeka Kemendikbud yang bertujuan untuk mewujudkan gagasan mahasiswa dalam mengembangkan diri melalui aktivitas di luar perkuliahan dan menambah kompetensi spesifik serta praktis yang akan digunakan dalam dunia industri"
@@ -156,7 +156,8 @@
     {
       "tag": "persyaratan_studi_independen",
       "patterns": [
-        "Apa saja persyaratan Studi Independen?"
+        "Apa saja persyaratan Studi Independen?",
+        "persyaratan dari studi independen apa aja ya?"
       ],
       "responses": [
         "Tidak ada persyaratan khusus. Seluruh mahasiswa dari perguruan tinggi dan program studi apapun dapat mengikuti program sesuai persyaratan setiap mitra"
