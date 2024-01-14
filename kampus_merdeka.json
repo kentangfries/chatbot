@@ -3,12 +3,10 @@
     {
       "tag": "greeting",
       "patterns": [
-        "hallo",
         "hai",
         "halo",
         "hei",
         "hi",
-        "hy",
         "pagi",
         "morning",
         "siang",
@@ -20,23 +18,20 @@
         "kawan"
       ],
       "responses": [
-        "Hai! Ibot di sini. Mau tau informasi tentang apa nih?",
-        "Halo! Saya Ibot, salam kenal ya! Mau tau tentang kampus merdeka, kan?",
-        "Helo! Ini Ibot. Lagi kepo tentang kampus merdeka ya?"
+        "Hai! ibot di sini. Mau tau informasi tentang apa nih?",
+        "Halo! Saya ibot, salam kenal ya! Mau tau tentang kampus merdeka, kan?",
+        "Helo! Ini ibot. Lagi kepo tentang kampus merdeka ya?"
       ]
-    },
-    {
-
     },
     {
       "tag": "ibot",
       "patterns": [
-        "Apa itu Ibot?",
-        "Siapa Ibot?"
+        "Apa itu iBot?",
+        "Siapa iBot?"
       ],
       "responses": [
-        "Ibot adalah aplikasi chatbot informasi tentang Kampus Merdeka yang dimulai dari pelaksanaan, persyaratan dan program yang berada di Kampus Merdeka!",
-        "Ibot itu adalah teman informasi kamu tentang Kampus Merdeka!"
+        "iBot adalah aplikasi chatbot informasi tentang Kampus Merdeka yang dimulai dari pelaksanaan, persyaratan dan program yang berada di Kampus Merdeka!",
+        "iBot itu adalah teman informasi kamu tentang Kampus Merdeka!"
       ]
     },
     {
@@ -44,11 +39,12 @@
       "patterns": [
         "Siapa pembuatmu?",
         "ibot, yang buat kamu siapa sih?",
-        "Siapa penciptamu, ibot?"
+        "Siapa penciptamu, ibot?",
+        "Siapa yang menciptakan kamu?"
       ],
       "responses": [
-        "Ibot diciptakan oleh mahasiswa dan mahasiswi dari program Kampus Merdeka yang memiliki ide kreatif dan semangat team yang luar biasa walaupun banyak rintangan dan drama tapi mereka berhasil menciptakan saya saat ini",
-        "Pembuat Ibot dari kalangan mahasiswa dan mahasiswi lho!",
+        "iBot diciptakan oleh mahasiswa dan mahasiswi dari program Kampus Merdeka yang memiliki ide kreatif dan semangat team yang luar biasa walaupun banyak rintangan dan drama tapi mereka berhasil menciptakan saya saat ini",
+        "Pembuat iBot dari kalangan mahasiswa dan mahasiswi lho!",
         "Penciptaku berasal dari seorang mahasiswa yang kreatif, sehingga saya bisa aktif saat ini!"
       ]
     },
@@ -57,19 +53,17 @@
       "patterns": [
         "Dah",
         "Dadah",
-        "Bye",
         "Byee",
         "Good bye",
         "Selamat tinggal",
         "Sampai jumpa",
-        "Bai",
         "See you"
       ],
       "responses": [
         "Bye!",
         "Dadahh!",
         "Good bye!",
-        "Dahh, semoga harimu menyenangkan yaa!",
+        "Dahh, semoga harimu Senin terus!",
         "Sampai jumpa lagi!",
         "See u! Senang bisa membantu"
       ]
@@ -345,13 +339,14 @@
         "Bagaimana periode pelaksanaan dan cara mendaftar program Pertukaran Mahasiswa Merdeka?"
       ],
       "responses": [
-        "Program berlangsung selama 1 semester. Cara mendaftarnya dengan mengunjungi laman https://kampusmerdeka.kemdikbud.go.id/web/pertukaranMahasiswaMerdeka2021"
+        "Program berlangsung selama 1 semester. Cara mendaftarnya dengan mengunjungi laman https://kampusmerdeka.kemdikbud.go.id/"
       ]
     },
     {
       "tag": "manfaat_pertukaran_mahasiswa",
       "patterns": [
-        "Apa saja manfaat apabila mengikuti Pertukaran Mahasiswa Merdeka?"
+        "Apa saja manfaat apabila mengikuti Pertukaran Mahasiswa Merdeka?",
+        "manfaat dari program ini apa ya?"
       ],
       "responses": [
         "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, bantuan biaya hidup dan UKT, transport pulang-pergi ke kampus tujuan, dan biaya rapid pulang-pergi"
@@ -360,7 +355,8 @@
     {
       "tag": "penjelasan_pejuang_muda",
       "patterns": [
-        "Apa itu Pejuang Muda?"
+        "Apa itu Pejuang Muda?",
+        "Pejuang Muda itu apa?"
       ],
       "responses": [
         "Pejuang Muda adalah laboratorium sosial mahasiswa yang berkolaborasi dengan Kementerian Sosial untuk merancang digital campaign dan mengeksekusi program sosial yang relevan untuk membuat perubahan nyata di masyarakat "
@@ -369,7 +365,8 @@
     {
       "tag": "persyaratan_pejuang_muda",
       "patterns": [
-        "Apa saja persyaratan Pejuang Muda?"
+        "Apa saja persyaratan Pejuang Muda?",
+        "Persyaratannya apa saja?"
       ],
       "responses": [
         "Merupakan mahasiswa aktif minimal semester 5, memiliki IPK minimal 2.75, memiliki pengalaman organisasi, mampu bekerjasama dan berkomunikasi dengan baik, serta siap untuk ditempatkan di seluruh lokasi Indonesia"
@@ -387,7 +384,8 @@
     {
       "tag": "manfaat_pejuang_muda",
       "patterns": [
-        "Apa saja manfaat apabila mengikuti Pejuang Muda?"
+        "Apa saja manfaat apabila mengikuti Pejuang Muda?",
+        "Apa manfaat dari Pejuang Muda"
       ],
       "responses": [
         "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, pendampingan langsung dengan Kemensos, mentoring eksklusif, atribut, uang saku, biaya transport, dan anggaran hibah"
@@ -405,7 +403,9 @@
     {
       "tag": "persyaratan_IISMA",
       "patterns": [
-        "Apa saja persyaratan IISMA?"
+        "Apa saja persyaratan IISMA?",
+        "Persyaratannya apa saja?",
+        "Persyaratannya apa aja?"
       ],
       "responses": [
         "Merupakan mahasiswa aktif semester 5, memiliki IPK minimal 2.75, mendapatkan izin dari dosen wali dan kaprodi, bersedia ditempatkan di perusahaan yang sudah terdaftar di FHCI"
