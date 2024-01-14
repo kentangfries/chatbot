@@ -93,7 +93,9 @@
     {
       "tag": "tujuan_kampus_merdeka",
       "patterns": [
-        "Apa tujuan Kampus Merdeka?"
+        "Apa tujuan Kampus Merdeka?",
+        "apa tujuan kampus merdeka?",
+        "apa tujuan dari kampus merdeka?"
       ],
       "responses": [
         "Tujuan kebijakan Kampus Merdeka adalah memberikan kesempatan kepada mahasiswa untuk memilih mata kuliah yang akan mereka tempuh berdasarkan keinginan sendiri serta mendorong mahasiswa meningkatkan soft skills serta hard skills agar siap bersaing dalam dunia global."
@@ -102,7 +104,7 @@
     {
       "tag": "persyaratan_kampus_merdeka",
       "patterns": [
-        "Apa persyaratan mengikuti Kampus Merdeka?"
+        "Apa saja persyaratan mengikuti kampus merdeka?"
       ],
       "responses": [
         "Persyaratan mengikuti program Kampus Merdeka, yaitu merupakan mahasiswa yang berasal dari Program Studi terakreditasi dan terdaftar aktif pada PDDikti."
@@ -111,7 +113,8 @@
     {
       "tag": "program_kampus_merdeka",
       "patterns": [
-        "Apa saja program Kampus Merdeka?"
+        "Apa saja program Kampus Merdeka?",
+        "apa saja program kampus merdeka?"
       ],
       "responses": [
         "Terdapat program Kampus Merdeka dari Kemendikbud, Kemensos, serta BUMN"
