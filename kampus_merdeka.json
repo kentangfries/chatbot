@@ -105,7 +105,8 @@
     {
       "tag": "persyaratan_kampus_merdeka",
       "patterns": [
-        "Apa saja persyaratan mengikuti kampus merdeka?"
+        "Apa saja persyaratan ikut kampus merdeka?",
+        "persyaratan apa saja yang dibutuhkan?"
       ],
       "responses": [
         "Persyaratan mengikuti program Kampus Merdeka, yaitu merupakan mahasiswa yang berasal dari Program Studi terakreditasi dan terdaftar aktif pada PDDikti."
