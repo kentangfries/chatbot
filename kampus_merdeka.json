@@ -84,7 +84,8 @@
     {
       "tag": "penjelasan_kampus_merdeka",
       "patterns": [
-        "Apa itu Kampus Merdeka?"
+        "Apa itu Kampus Merdeka?",
+        "kampus merdeka itu apa ya?"
       ],
       "responses": [
         "Kampus Merdeka merupakan kebijakan Menteri Pendidikan dan Kebudayaan Nadiem Makarim yang membebaskan mahasiswa untuk mengikuti kegiatan di luar program studinya selama 1 semester atau setara 20 sks dan paling lama 2 semester atau setara 40 sks."
