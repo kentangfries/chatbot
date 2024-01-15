@@ -108,7 +108,8 @@
       "tag": "persyaratan_kampus_merdeka",
       "patterns": [
         "apa saja persyaratan ikut kampus merdeka?",
-        "persyaratan apa saja yang dibutuhkan?"
+        "apa saja persyaratan kampus merdeka?",
+        "persyaratan apa saja ikut kampus merdeka?"
       ],
       "responses": [
         "Persyaratan mengikuti program Kampus Merdeka, yaitu merupakan mahasiswa yang berasal dari Program Studi terakreditasi dan terdaftar aktif pada PDDikti."
@@ -118,7 +119,7 @@
       "tag": "program_kampus_merdeka",
       "patterns": [
         "Apa saja program Kampus Merdeka?",
-        "apa saja program kampus merdeka?",
+        "apa saja program dari kampus merdeka?",
         "program apa saja yang ada di kampus merdeka?"
       ],
       "responses": [
