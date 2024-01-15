@@ -23,10 +23,11 @@
       ]
     },
     {
-      "tag": "ibot",
+      "tag": "siapa_ibot",
       "patterns": [
         "Apa itu iBot?",
-        "Siapa iBot?"
+        "Siapa iBot?",
+        "siapa itu ibot?"
       ],
       "responses": [
         "iBot adalah aplikasi chatbot informasi tentang Kampus Merdeka yang dimulai dari pelaksanaan, persyaratan dan program yang berada di Kampus Merdeka!",
@@ -34,11 +35,11 @@
       ]
     },
     {
-      "tag": "pencipta_ibot",
+      "tag": "pencipta_pembuat_ibot",
       "patterns": [
         "Siapa pembuatmu?",
         "ibot, yang buat kamu siapa sih?",
-        "Siapa penciptamu, ibot?",
+        "Siapa pencipta ibot?",
         "Siapa yang menciptakan kamu?"
       ],
       "responses": [
@@ -85,6 +86,7 @@
       "tag": "penjelasan_kampus_merdeka",
       "patterns": [
         "Apa itu Kampus Merdeka?",
+        "apa itu kampus merdeka?",
         "kampus merdeka itu apa ya?"
       ],
       "responses": [
@@ -105,7 +107,7 @@
     {
       "tag": "persyaratan_kampus_merdeka",
       "patterns": [
-        "Apa saja persyaratan ikut kampus merdeka?",
+        "apa saja persyaratan ikut kampus merdeka?",
         "persyaratan apa saja yang dibutuhkan?"
       ],
       "responses": [
@@ -116,7 +118,8 @@
       "tag": "program_kampus_merdeka",
       "patterns": [
         "Apa saja program Kampus Merdeka?",
-        "apa saja program kampus merdeka?"
+        "apa saja program kampus merdeka?",
+        "program apa saja yang ada di kampus merdeka?"
       ],
       "responses": [
         "Terdapat program Kampus Merdeka dari Kemendikbud, Kemensos, serta BUMN"
@@ -152,6 +155,7 @@
       "tag": "penjelasan_studi_independen",
       "patterns": [
         "Apa itu studi independen?",
+        "jelaskan tentang studi independen",
         "studi independen itu apa ya?"
       ],
       "responses": [
@@ -159,9 +163,10 @@
       ]
     },
     {
-      "tag": "persyaratan_studi_independen",
+      "tag": "persyaratan_studi_independen_stupen",
       "patterns": [
         "Apa saja persyaratan Studi Independen?",
+        "pesyaratan yang dibutuhkan stupen?",
         "persyaratan dari studi independen apa aja ya?"
       ],
       "responses": [
@@ -169,18 +174,29 @@
       ]
     },
     {
-      "tag": "periode_dan_pendaftaran_studi_independen",
+      "tag": "periode_studi_independen_stupen",
       "patterns": [
-        "Bagaimana periode pelaksanaan dan cara mendaftar program Studi Independen?"
+        "bagaimana periode pelaksanaan program studi independen?"
       ],
       "responses": [
-        "Program berlangsung selama 1 hingga 2 semester. Cara mendaftarnya dengan mengunjungi laman https://kampusmerdeka.kemdikbud.go.id/program/studi-independen"
+        "Program berlangsung selama 1 hingga 2 semester"
+      ]
+    },
+    {
+      "tag":"pendaftaran_studi_independen_stupen",
+      "patterns": [
+        "bagaimana cara mendaftar studi independen?",
+        "cara mendaftar program stupen"
+      ],
+      "responses": [
+       "Cara mendaftarnya dengan mengunjungi website https://kampusmerdeka.kemdikbud.go.id/program/studi-independen" 
       ]
     },
     {
       "tag": "manfaat_studi_independen",
       "patterns": [
-        "Apa saja manfaat apabila mengikuti Studi Independen?"
+        "Apa saja manfaat apabila mengikuti Studi Independen?",
+        "manfaat ikut program studi independen"
       ],
       "responses": [
         "Manfaat yang didapatkan, yaitu konversi hingga 20 SKS, dapat melakukan program sertifikasi yang diakui Kemendikbudristek selama 1-2 semester, biaya partisipasi serta biaya hidup, dan sertifikat sertifikasi atau short course"
@@ -189,7 +205,8 @@
     {
       "tag": "mitra_studi_independen",
       "patterns": [
-        "Apa saja mitra yang tergabung dalam Studi Independen?"
+        "Apa saja mitra yang tergabung dalam Studi Independen?",
+        "mitra yang tergabung dalam program stupen"
       ],
       "responses": [
         "Mitra yang tergabung seperti Orbit Future Academy, Microsoft Indonesia, Ruang Guru, Zenius, dsb. Info lebih lanjut melalui laman https://kampusmerdeka.kemdikbud.go.id/program/studi-independen/browse"
@@ -198,7 +215,8 @@
     {
       "tag": "penjelasan_magang",
       "patterns": [
-        "Apa itu Magang Bersertifikat?"
+        "Apa itu Magang Bersertifikat?",
+        "apa itu magang bersertifikat?"
       ],
       "responses": [
         "Salah satu program Kampus Merdeka Kemendikbud yang bertujuan untuk memberikan kesempatan kepada mahasiswa mendapatkan pengalaman kerja di industri/dunia profesi nyata untuk mendapatkan hard skills maupun soft skills."
@@ -207,19 +225,30 @@
     {
       "tag": "persyaratan_magang",
       "patterns": [
-        "Apa saja persyaratan Magang Bersertifikat?"
+        "Apa saja persyaratan Magang Bersertifikat?",
+        "persyaratan mengikuti program magang?"
       ],
       "responses": [
         "Tidak ada persyaratan khusus. Seluruh mahasiswa dari perguruan tinggi dan program studi apapun dapat mengikuti program sesuai persyaratan setiap mitra"
       ]
     },
     {
-      "tag": "periode_dan_pendaftaran_magang",
+      "tag": "periode_magang",
       "patterns": [
-        "Bagaimana periode pelaksanaan dan cara mendaftar program Magang Bersertifikat?"
+        "Bagaimana periode pelaksanaan magang?"
       ],
       "responses": [
-        "Program berlangsung selama 1 hingga 3 semester. Cara mendaftarnya dengan mengunjungi laman https://kampusmerdeka.kemdikbud.go.id/program/magang"
+        "Program berlangsung selama 1 hingga 3 semester"
+      ]
+    },
+    {
+      "tag":"pendaftaran_magang",
+      "patterns": [
+        "bagaimana cara mendaftar magang?",
+        "cara mendaftar program magang"
+      ],
+      "responses": [
+       "Cara mendaftarnya dengan mengunjungi website https://kampusmerdeka.kemdikbud.go.id/program/magang" 
       ]
     },
     {
@@ -234,7 +263,8 @@
     {
       "tag": "mitra_magang",
       "patterns": [
-        "Apa saja mitra yang tergabung dalam Magang Bersertifikat?"
+        "Apa saja mitra yang tergabung dalam Magang Bersertifikat?",
+        "mitra yang tergabung pada program magang"
       ],
       "responses": [
         "Mitra yang tergabung seperti Telkom Indonesia, XL Axiata, MAP, Bank BRI, Shopee, Tokopedia, Traveloka, dsb. Info lebih lanjut melalui laman https://kampusmerdeka.kemdikbud.go.id/program/magang/browse"
