@@ -118,7 +118,7 @@
     {
       "tag": "program_kampus_merdeka",
       "patterns": [
-        "Apa saja program Kampus Merdeka?",
+        "program dari kampus merdeka",
         "apa saja program dari kampus merdeka?",
         "program apa saja yang ada di kampus merdeka?"
       ],
@@ -151,7 +151,8 @@
     {
       "tag": "periode_studi_independen_stupen",
       "patterns": [
-        "bagaimana periode pelaksanaan program studi independen?"
+        "bagaimana periode pelaksanaan program studi independen?",
+        "periode dari program studi independen"
       ],
       "responses": [
         "Program berlangsung selama 1 hingga 2 semester"
@@ -170,7 +171,8 @@
     {
       "tag": "manfaat_studi_independen",
       "patterns": [
-        "Apa saja manfaat apabila mengikuti Studi Independen?",
+        "Apa saja manfaat apabila mengikuti studi independen?",
+        "apa saja manfaat ikut studi independen?",
         "manfaat ikut program studi independen"
       ],
       "responses": [
@@ -181,7 +183,8 @@
       "tag": "mitra_studi_independen",
       "patterns": [
         "Apa saja mitra yang tergabung dalam Studi Independen?",
-        "mitra yang tergabung dalam program stupen"
+        "mitra yang tergabung dalam program stupen",
+        "mitra yang tergabung dalam program studi independen"
       ],
       "responses": [
         "Mitra yang tergabung seperti Orbit Future Academy, Microsoft Indonesia, Ruang Guru, Zenius, dsb. Info lebih lanjut melalui laman https://kampusmerdeka.kemdikbud.go.id/program/studi-independen/browse"
