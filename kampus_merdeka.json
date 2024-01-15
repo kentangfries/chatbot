@@ -122,33 +122,7 @@
         "program apa saja yang ada di kampus merdeka?"
       ],
       "responses": [
-        "Terdapat program Kampus Merdeka dari Kemendikbud, Kemensos, serta BUMN"
-      ]
-    },
-    {
-      "tag": "program_kampus_merdeka",
-      "patterns": [
-        "Program Kampus Merdeka Kemendikbud",
-        "Program Kampus Merdeka Kemensos",
-        "Program Kampus Merdeka BUMN"
-      ],
-      "responses": [
-        "Yuk, pilih program di bawah ini:"
-      ]
-    },
-    {
-      "tag": "program_kampus_merdeka",
-      "patterns": [
-        "Studi Independen",
-        "Magang",
-        "Kampus Mengajar",
-        "IISMA",
-        "Pertukaran Mahasiswa Merdeka",
-        "Pejuang Muda",
-        "PMMB"
-      ],
-      "responses": [
-        "Mau tau tentang apa nih?"
+        "programnya adalah Studi Independen, Magang, Kampus Mengajar, IISMA, Pertukaran Mahasiswa Merdeka, Pejuang Muda, dan PMMB"
       ]
     },
     {
@@ -159,7 +133,7 @@
         "studi independen itu apa ya?"
       ],
       "responses": [
-        "Salah satu program Kampus Merdeka Kemendikbud yang bertujuan untuk mewujudkan gagasan mahasiswa dalam mengembangkan diri melalui aktivitas di luar perkuliahan dan menambah kompetensi spesifik serta praktis yang akan digunakan dalam dunia industri"
+        "Studi Independen salah satu program Kampus Merdeka Kemendikbud yang bertujuan untuk mewujudkan gagasan mahasiswa dalam mengembangkan diri melalui aktivitas di luar perkuliahan dan menambah kompetensi spesifik serta praktis yang akan digunakan dalam dunia industri"
       ]
     },
     {
