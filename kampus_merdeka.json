@@ -43,9 +43,9 @@
         "Siapa yang menciptakan kamu?"
       ],
       "responses": [
-        "iBot diciptakan oleh mahasiswa dan mahasiswi dari program Kampus Merdeka yang memiliki ide kreatif dan semangat team yang luar biasa walaupun banyak rintangan dan drama tapi mereka berhasil menciptakan saya saat ini",
-        "Pembuat iBot dari kalangan mahasiswa dan mahasiswi lho!",
-        "Penciptaku berasal dari seorang mahasiswa yang kreatif, sehingga saya bisa aktif saat ini!"
+        "iBot diciptakan oleh mahasiswa dan mahasiswi dari program Kampus Merdeka yang memiliki ide kreatif ",
+        "Pembuat iBot dari kalangan mahasiswa dan mahasiswi",
+        "Penciptaku berasal dari seorang mahasiswa kreatif, sehingga saya bisa aktif saat ini!"
       ]
     },
     {
@@ -140,6 +140,8 @@
       "tag": "persyaratan_studi_independen_stupen",
       "patterns": [
         "Apa saja persyaratan Studi Independen?",
+        "apa aja persyaratan dari studi independen?",
+        "persyaratan dari stupen apa aja ya?",
         "pesyaratan yang dibutuhkan stupen?",
         "persyaratan dari studi independen apa aja ya?"
       ],
@@ -161,7 +163,8 @@
       "tag":"pendaftaran_studi_independen_stupen",
       "patterns": [
         "bagaimana cara mendaftar studi independen?",
-        "cara mendaftar program stupen"
+        "cara mendaftar program stupen",
+        "bagaimana cara daftar program studi independen?",
       ],
       "responses": [
        "Cara mendaftarnya dengan mengunjungi website https://kampusmerdeka.kemdikbud.go.id/program/studi-independen" 
@@ -182,6 +185,7 @@
       "tag": "mitra_studi_independen",
       "patterns": [
         "Apa saja mitra yang tergabung dalam Studi Independen?",
+        "apa aja mitra yang ada pada program studi independen?",
         "mitra yang tergabung dalam program stupen",
         "mitra yang tergabung dalam program studi independen"
       ],
