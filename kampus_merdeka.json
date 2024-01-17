@@ -354,6 +354,130 @@
       "responses": [
         "Universitas yang tergabung seperti Boston University, Monash University, Nanyang University, University of Birmingham, dsb. Info lebih lanjut melalui laman https://site.iisma.id/host-universities-list"
       ]
+    },
+    ,
+    {
+      "tag": "penjelasan_pertukaran_mahasiswa",
+      "patterns": [
+        "Apa itu Pertukaran Mahasiswa Merdeka?"
+      ],
+      "responses": [
+        "Pertukaran Mahasiswa Merdeka merupakan pertukaran pelajar dengan program studi yang sama ke Perguruan Tinggi berbeda maupun pertukaran pelajar dengan program studi berbeda ke Perguruan Tinggi berbeda. Kegiatan pembelajaran dapat secara tatap muka atau daring. Program ini bertujuan untuk memperkaya pengalaman dan konteks keilmuan mahasiswa"
+      ]
+    },
+    {
+      "tag": "persyaratan_pertukaran_mahasiswa",
+      "patterns": [
+        "Apa saja persyaratan Pertukaran Mahasiswa Merdeka?"
+      ],
+      "responses": [
+        "Merupakan mahasiswa aktif semester 3, 5, dan 7, memiliki IPK minimal 2.75, memiliki pengalaman prestasi non-akademik tingkat daerah/nasional/internasional, tidak pernah dikenakan sanksi akademik maupun non-akademik, serta mendapatkan surat rekomendasi dari Perguruan Tinggi dan izin orang tua"
+      ]
+    },
+    {
+      "tag": "periode_dan_pendaftaran_pertukaran_mahasiswa",
+      "patterns": [
+        "Bagaimana periode pelaksanaan dan cara mendaftar program Pertukaran Mahasiswa Merdeka?"
+      ],
+      "responses": [
+        "Program berlangsung selama 1 semester. Cara mendaftarnya dengan mengunjungi laman https://kampusmerdeka.kemdikbud.go.id/"
+      ]
+    },
+    {
+      "tag": "manfaat_pertukaran_mahasiswa",
+      "patterns": [
+        "Apa saja manfaat apabila mengikuti Pertukaran Mahasiswa Merdeka?",
+        "manfaat dari program ini apa ya?"
+      ],
+      "responses": [
+        "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, bantuan biaya hidup dan UKT, transport pulang-pergi ke kampus tujuan, dan biaya rapid pulang-pergi"
+      ]
+    },
+    {
+      "tag": "penjelasan_pejuang_muda",
+      "patterns": [
+        "Apa itu Pejuang Muda?",
+        "Pejuang Muda itu apa?"
+      ],
+      "responses": [
+        "Pejuang Muda adalah laboratorium sosial mahasiswa yang berkolaborasi dengan Kementerian Sosial untuk merancang digital campaign dan mengeksekusi program sosial yang relevan untuk membuat perubahan nyata di masyarakat "
+      ]
+    },
+    {
+      "tag": "persyaratan_pejuang_muda",
+      "patterns": [
+        "Apa saja persyaratan Pejuang Muda?",
+        "Persyaratannya apa saja?"
+      ],
+      "responses": [
+        "Merupakan mahasiswa aktif minimal semester 5, memiliki IPK minimal 2.75, memiliki pengalaman organisasi, mampu bekerjasama dan berkomunikasi dengan baik, serta siap untuk ditempatkan di seluruh lokasi Indonesia"
+      ]
+    },
+    {
+      "tag": "periode_dan_pendaftaran_pejuang_muda",
+      "patterns": [
+        "Bagaimana periode pelaksanaan dan cara mendaftar program Pejuang Muda?"
+      ],
+      "responses": [
+        "Program berlangsung selama 1 semester. Cara mendaftarnya dengan mengunjungi laman https://pejuangmuda.kemensos.go.id/"
+      ]
+    },
+    {
+      "tag": "manfaat_pejuang_muda",
+      "patterns": [
+        "Apa saja manfaat apabila mengikuti Pejuang Muda?",
+        "Apa manfaat dari Pejuang Muda"
+      ],
+      "responses": [
+        "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, pendampingan langsung dengan Kemensos, mentoring eksklusif, atribut, uang saku, biaya transport, dan anggaran hibah"
+      ]
+    },
+    {
+      "tag": "penjelasan_PMMB",
+      "patterns": [
+        "Apa itu PMMB?"
+      ],
+      "responses": [
+        "PMMB adalah singkatan dari Program Magang Mahasiswa Bersertifikat. PMMB adalah program dari FHCI yang bekerja sama dengan BUMN yang memberi kesempatan kepada mahasiswa untuk menyalurkan potensi dan menggali pengalaman di BUMN"
+      ]
+    },
+    {
+      "tag": "persyaratan_IISMA",
+      "patterns": [
+        "Apa saja persyaratan IISMA?",
+        "Persyaratannya apa saja?",
+        "Persyaratannya apa aja?"
+      ],
+      "responses": [
+        "Merupakan mahasiswa aktif semester 5, memiliki IPK minimal 2.75, mendapatkan izin dari dosen wali dan kaprodi, bersedia ditempatkan di perusahaan yang sudah terdaftar di FHCI"
+      ]
+    },
+    {
+      "tag": "periode_dan_pendaftaran_PMMB",
+      "patterns": [
+        "Bagaimana periode pelaksanaan dan cara mendaftar program PMMB?"
+      ],
+      "responses": [
+        "Program berlangsung selama 1 semester. Cara mendaftarnya dengan mengunjungi website FHCI BUMN atau instagram @fhci.bumn"
+      ]
+    },
+    {
+      "tag": "manfaat_PMMB",
+      "patterns": [
+        "Apa saja manfaat apabila mengikuti PMMB?"
+      ],
+      "responses": [
+        "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, mendapatkan sertifikat industri, mengenal dunia kerja, serta uang saku"
+      ]
+    },
+    {
+      "tag": "mitra_PMMB",
+      "patterns": [
+        "Apa saja universitas yang tergabung dalam program PMMB?"
+      ],
+      "responses": [
+        "Mitra yang tergabung seperti Pertamina, Bank BRI, PT. KBN, dsb. Info lebih lanjut melalui website FHCI BUMN atau instagram @fhci.bumn"
+      ]
     }
   ]
 }
