@@ -122,7 +122,7 @@
         "program apa saja yang ada di kampus merdeka?"
       ],
       "responses": [
-        "programnya adalah Studi Independen, Magang, Kampus Mengajar, IISMA, Pertukaran Mahasiswa Merdeka, Pejuang Muda, dan PMMB"
+        "programnya adalah Studi Independen, Magang Bersertifikat, Kampus Mengajar, IISMA, Pertukaran Mahasiswa Merdeka, Pejuang Muda, dan PMMB"
       ]
     },
     {
@@ -197,45 +197,54 @@
       "tag": "penjelasan_magang",
       "patterns": [
         "Apa itu Magang Bersertifikat?",
-        "apa itu magang bersertifikat?"
+        "apa itu magang bersertifikat?",
+        "jelaskan program magang ini?",
+        "jelaskan program magang bersertifikat?"
       ],
       "responses": [
         "Salah satu program Kampus Merdeka Kemendikbud yang bertujuan untuk memberikan kesempatan kepada mahasiswa mendapatkan pengalaman kerja di industri/dunia profesi nyata untuk mendapatkan hard skills maupun soft skills."
       ]
     },
     {
-      "tag": "persyaratan_magang",
+      "tag": "persyaratan_magang_bersertifikat",
       "patterns": [
         "Apa saja persyaratan Magang Bersertifikat?",
-        "persyaratan mengikuti program magang?"
+        "persyaratan mengikuti program magang?",
+        "apa saja persyaratan ikut magang bersertifikat?",
+        "persyaratan ikut program magang bersertifikat?"
       ],
       "responses": [
         "Tidak ada persyaratan khusus. Seluruh mahasiswa dari perguruan tinggi dan program studi apapun dapat mengikuti program sesuai persyaratan setiap mitra"
       ]
     },
     {
-      "tag": "periode_magang",
+      "tag": "periode_magang_bersertifikat",
       "patterns": [
-        "Bagaimana periode pelaksanaan magang?"
+        "Bagaimana periode pelaksanaan magang?",
+        "bagaimana periode dari program magang bersertifikat?",
+        "periode program magang bersertifikat"
       ],
       "responses": [
         "Program berlangsung selama 1 hingga 3 semester"
       ]
     },
     {
-      "tag":"pendaftaran_magang",
+      "tag":"pendaftaran_magang_bersertifikat",
       "patterns": [
         "bagaimana cara mendaftar magang?",
-        "cara mendaftar program magang"
+        "cara mendaftar program magang",
+        "cara daftar program magang bersertifikat"
       ],
       "responses": [
        "Cara mendaftarnya dengan mengunjungi website https://kampusmerdeka.kemdikbud.go.id/program/magang" 
       ]
     },
     {
-      "tag": "manfaat_magang",
+      "tag": "manfaat_magang_bersertifikat",
       "patterns": [
-        "Apa saja manfaat apabila mengikuti Magang Bersertifikat?"
+        "Apa saja manfaat apabila mengikuti Magang Bersertifikat?",
+        "manfaat yang didapat dari program magang?",
+        "apa saja manfaat jika ikut magang bersertifikat?"
       ],
       "responses": [
         "Manfaat yang didapatkan, yaitu konversi hingga 20 sks, dibimbing mentor staf profesional secara full-time, sertifikasi sesuai kinerja, dan uang saku serta biaya hidup selama magang"
@@ -245,7 +254,8 @@
       "tag": "mitra_magang",
       "patterns": [
         "Apa saja mitra yang tergabung dalam Magang Bersertifikat?",
-        "mitra yang tergabung pada program magang"
+        "mitra yang tergabung pada program magang",
+        "mitra apa saja yang ada di program magang?"
       ],
       "responses": [
         "Mitra yang tergabung seperti Telkom Indonesia, XL Axiata, MAP, Bank BRI, Shopee, Tokopedia, Traveloka, dsb. Info lebih lanjut melalui laman https://kampusmerdeka.kemdikbud.go.id/program/magang/browse"
@@ -254,7 +264,10 @@
     {
       "tag": "penjelasan_kampus_mengajar",
       "patterns": [
-        "Apa itu Kampus Mengajar?"
+        "Apa itu Kampus Mengajar?",
+        "apa itu kampus mengajar?",
+        "jelaskan tentang kampus mengajar",
+        "kampus mengajar itu apa ya?"
       ],
       "responses": [
         "Salah satu program Kampus Merdeka Kemendikbud berbentuk kegiatan pembelajaran oleh mahasiswa yang memiliki minat dalam memperdalam ilmunya serta membantu meningkatkan pemerataan kualitas pendidikan. Sekolah tempat praktek mengajar dapat berada di lokasi kota maupun di daerah terpencil"
@@ -263,25 +276,42 @@
     {
       "tag": "persyaratan_kampus_mengajar",
       "patterns": [
-        "Apa saja persyaratan Kampus Mengajar?"
+        "Apa saja persyaratan Kampus Mengajar?",
+        "apa saja syarat ikut program kampus mengajar?",
+        "syarat dari program kampus mengajar"
       ],
       "responses": [
         "Merupakan mahasiswa aktif semester 4, memiliki IPK minimum 3.00, memiliki pengalaman mengajar maupun berorganisasi, memperoleh surat rekomendasi dari Perguruan tinggi, serta belum pernah mengikuti program Kampus Mengajar"
       ]
     },
     {
-      "tag": "periode_dan_pendaftaran_kampus_mengajar",
+      "tag": "periode_kampus_mengajar",
       "patterns": [
-        "Bagaimana periode pelaksanaan dan cara mendaftar program Kampus Mengajar?"
+        "Bagaimana periode pelaksanaan dan cara mendaftar program Kampus Mengajar?",
+        "bagaimana periode pelaksanaan program kampus mengajar?",
+        "periode dari program kampus mengajar"
       ],
       "responses": [
-        "Program berlangsung selama 1 semester. Cara mendaftarnya dengan mengunjungi laman https://kampusmerdeka.kemdikbud.go.id/program/mengajar"
+        "Program berlangsung selama 1 semester"
+      ]
+    },
+    {
+      "tag":"pendaftaran_kampus_mengajar",
+      "patterns": [
+        "bagaimana cara mendaftar kampus mengajar?",
+        "cara mendaftar program kampus mengajar",
+        "cara daftar program kampus mengajar"
+      ],
+      "responses": [
+       "Cara mendaftarnya dengan mengunjungi website https://kampusmerdeka.kemdikbud.go.id/program/mengajar" 
       ]
     },
     {
       "tag": "manfaat_kampus_mengajar",
       "patterns": [
-        "Apa saja manfaat apabila mengikuti Kampus Mengajar?"
+        "Apa saja manfaat apabila mengikuti Kampus Mengajar?",
+        "manfaat dari kampus mengajar",
+        "apa saja manfaat ikut program kampus mengajar?"
       ],
       "responses": [
         "Manfaat yang didapatkan, yaitu mendapatkan bantuan biaya hidup serta UKT (bagi yang tidak sedang menerima bantuan pemerintah lainnya), mengasah kepemimpinan, kreativitas, pemecahan masalah, inovasi, serta terlibat langsung dalam pembelajaran di jenjang SD dan SMP"
@@ -290,7 +320,10 @@
     {
       "tag": "penjelasan_IISMA",
       "patterns": [
-        "Apa itu IISMA?"
+        "Apa itu IISMA?",
+        "jelaskan apa itu IISMA?",
+        "IISMA itu apa ya?",
+        "apa itu iisma?"
       ],
       "responses": [
         "IISMA adalah singkatan dari Indonesian International Student Mobility Awards. Salah satu program Kampus Merdeka Kemendikbud berupa skema beasiswa dari Pemerintah Indonesia untuk mendanai siswa dalam program mobilitas ke universitas terkemuka di luar negeri"
@@ -299,7 +332,9 @@
     {
       "tag": "persyaratan_IISMA",
       "patterns": [
-        "Apa saja persyaratan IISMA?"
+        "Apa saja persyaratan IISMA?",
+        "syarat dari program IISMA",
+        "apa saja syarat ikut IISMA?"
       ],
       "responses": [
         "Merupakan mahasiswa aktif semester 4 hingga 6, maksimal berumur 23 tahun, memiliki IPK minimal 3.00, memiliki score IELTS - 6.0, TOEFL iBT - 78, Duolingo English Test - 100, mendapatkan surat rekomendasi Perguruan Tinggi, serta belum pernah mengikuti program IISMA maupun beasiswa LPDP"
