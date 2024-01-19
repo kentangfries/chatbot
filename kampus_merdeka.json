@@ -127,11 +127,11 @@
     {
       "tag": "persyaratan_studi_independen_stupen",
       "patterns": [
-        "Apa saja persyaratan Studi Independen?",
-        "apa aja persyaratan dari studi independen?",
-        "persyaratan dari stupen apa aja ya?",
+        "apa saja persyaratan studi independen?",
+        "apa saja persyaratan dari studi independen?",
+        "persyaratan dari stupen apa saja ya?",
         "pesyaratan yang dibutuhkan stupen?",
-        "persyaratan dari studi independen apa aja ya?"
+        "persyaratan dari studi independen apa saja ya?"
       ],
       "responses": [
         "Tidak ada persyaratan khusus. Seluruh mahasiswa dari perguruan tinggi dan program studi apapun dapat mengikuti program sesuai persyaratan setiap mitra"
@@ -173,7 +173,7 @@
       "tag": "mitra_studi_independen",
       "patterns": [
         "Apa saja mitra yang tergabung dalam Studi Independen?",
-        "apa aja mitra yang ada pada program studi independen?",
+        "apa saja mitra yang ada pada program studi independen?",
         "mitra yang tergabung dalam program stupen",
         "mitra yang tergabung dalam program studi independen"
       ],
@@ -445,7 +445,7 @@
       "patterns": [
         "Apa saja persyaratan IISMA?",
         "Persyaratannya apa saja?",
-        "Persyaratannya apa aja?"
+        "Persyaratannya apa saja?"
       ],
       "responses": [
         "Merupakan mahasiswa aktif semester 5, memiliki IPK minimal 2.75, mendapatkan izin dari dosen wali dan kaprodi, bersedia ditempatkan di perusahaan yang sudah terdaftar di FHCI"
