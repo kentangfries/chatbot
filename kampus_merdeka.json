@@ -110,12 +110,13 @@
         "program apa saja yang ada di kampus merdeka?"
       ],
       "responses": [
-        "programnya adalah Studi Independen, Magang Bersertifikat, Kampus Mengajar, IISMA, Pertukaran Mahasiswa Merdeka, Pejuang Muda, dan PMMB"
+        "programnya adalah Studi Independen, Magang Bersertifikat, Kampus Mengajar, IISMA, Pertukaran Mahasiswa Merdeka, dan Wirausaha Merdeka"
       ]
     },
     {
       "tag": "penjelasan_studi_independen",
       "patterns": [
+        "apa itu studi independen?",
         "Apa itu studi independen?",
         "jelaskan tentang studi independen",
         "studi independen itu apa ya?"
@@ -264,7 +265,7 @@
     {
       "tag": "persyaratan_kampus_mengajar",
       "patterns": [
-        "Apa saja persyaratan Kampus Mengajar?",
+        "apa saja persyaratan kampus mengajar?",
         "apa saja syarat ikut program kampus mengajar?",
         "syarat dari program kampus mengajar"
       ],
@@ -275,7 +276,6 @@
     {
       "tag": "periode_kampus_mengajar",
       "patterns": [
-        "Bagaimana periode pelaksanaan dan cara mendaftar program Kampus Mengajar?",
         "bagaimana periode pelaksanaan program kampus mengajar?",
         "periode dari program kampus mengajar"
       ],
@@ -299,7 +299,8 @@
       "patterns": [
         "Apa saja manfaat apabila mengikuti Kampus Mengajar?",
         "manfaat dari kampus mengajar",
-        "apa saja manfaat ikut program kampus mengajar?"
+        "apa saja manfaat ikut program kampus mengajar?",
+        "apa manfaat dari program kampus mengajar?"
       ],
       "responses": [
         "Manfaat yang didapatkan, yaitu mendapatkan bantuan biaya hidup serta UKT (bagi yang tidak sedang menerima bantuan pemerintah lainnya), mengasah kepemimpinan, kreativitas, pemecahan masalah, inovasi, serta terlibat langsung dalam pembelajaran di jenjang SD dan SMP"
@@ -322,7 +323,8 @@
       "patterns": [
         "Apa saja persyaratan IISMA?",
         "syarat dari program IISMA",
-        "apa saja syarat ikut IISMA?"
+        "apa saja syarat ikut IISMA?",
+        "apa saja syarat ikut program IISMA?"
       ],
       "responses": [
         "Merupakan mahasiswa aktif semester 4 hingga 6, maksimal berumur 23 tahun, memiliki IPK minimal 3.00, memiliki score IELTS - 6.0, TOEFL iBT - 78, Duolingo English Test - 100, mendapatkan surat rekomendasi Perguruan Tinggi, serta belum pernah mengikuti program IISMA maupun beasiswa LPDP"
@@ -376,106 +378,89 @@
     {
       "tag": "periode_dan_pendaftaran_pertukaran_mahasiswa",
       "patterns": [
-        "Bagaimana periode pelaksanaan dan cara mendaftar program Pertukaran Mahasiswa Merdeka?"
+        "bagaimana periode pelaksanaan program Pertukaran Mahasiswa Merdeka?",
+        "bagaimana periode pelaksanaan program pertukaran mahsiswa merdeka?",
+        "periode pelaksanaan"
       ],
       "responses": [
-        "Program berlangsung selama 1 semester. Cara mendaftarnya dengan mengunjungi laman https://kampusmerdeka.kemdikbud.go.id/"
+        "Program berlangsung selama 1 semester"
+      ]
+    },
+    {
+      "tag":"pendaftaran_pertukaran_mahasiswa",
+      "patterns": [
+        "bagaimana cara mendaftar pertukaran mahasiswa?",
+        "cara mendaftar program pertukaran mahasiswa",
+        "cara daftar program pertukaran mahasiswa"
+      ],
+      "responses": [
+       "Cara mendaftarnya dengan mengunjungi website https://pmm.kampusmerdeka.kemdikbud.go.id/pages/info/program/pmm_4/" 
       ]
     },
     {
       "tag": "manfaat_pertukaran_mahasiswa",
       "patterns": [
         "Apa saja manfaat apabila mengikuti Pertukaran Mahasiswa Merdeka?",
-        "manfaat dari program ini apa ya?"
+        "manfaat dari program pertukaran mahasiswa merdeka",
+        "apa manfaat ikut program pertukaran mahasiswa merdeka?",
+        "apa saja manfaat mengikuti pertukaran mahasiswa merdeka?"
       ],
       "responses": [
         "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, bantuan biaya hidup dan UKT, transport pulang-pergi ke kampus tujuan, dan biaya rapid pulang-pergi"
       ]
     },
     {
-      "tag": "penjelasan_pejuang_muda",
+      "tag": "penjelasan_wirausaha_merdeka",
       "patterns": [
-        "Apa itu Pejuang Muda?",
-        "Pejuang Muda itu apa?"
+        "Apa itu Wirausaha Merdeka?",
+        "wirausaha itu apa ya?",
+        "jelaskan apa itu wirausaha merdeka"
       ],
       "responses": [
-        "Pejuang Muda adalah laboratorium sosial mahasiswa yang berkolaborasi dengan Kementerian Sosial untuk merancang digital campaign dan mengeksekusi program sosial yang relevan untuk membuat perubahan nyata di masyarakat "
+        "Wirausaha Merdeka adalah bagian dari program Kampus Merdeka Kementrian Pendidikan, Kebudayaan, Riset, dan Teknologi Indonesia yang memberikan kesempatan kepada mahasiswa belajar dan mengembangkan diri menjadi calon wirausahawan melalui aktivitas di luar kelas perkuliahan"
       ]
     },
     {
-      "tag": "persyaratan_pejuang_muda",
+      "tag": "persyaratan_wirausaha_merdeka",
       "patterns": [
-        "Apa saja persyaratan Pejuang Muda?",
-        "Persyaratannya apa saja?"
+        "Apa saja persyaratan wirausaha merdeka?",
+        "apa saja syarat program wirausaha merdeka?",        
+        "persyaratan dari program wirausaha merdeka?"
       ],
       "responses": [
-        "Merupakan mahasiswa aktif minimal semester 5, memiliki IPK minimal 2.75, memiliki pengalaman organisasi, mampu bekerjasama dan berkomunikasi dengan baik, serta siap untuk ditempatkan di seluruh lokasi Indonesia"
+        "Merupakan mahasiswa aktif jenjang pendidikan D2, D3, D4, dan S1 minimal semester 3, S2 dan S3 tanpa batasan semester. Tidak sedang menyusun skripsi ataupun tugas akhir, tidak mengambil mata kuliah selama mengikuti program, memperoleh surat rekomendasi dari KAPRODI dan pimpinan PT bidang akademik, bersedia mengikuti penuh(satu semester) dibuktikan dengan surat pernyataan mahasiswa"
       ]
     },
     {
-      "tag": "periode_dan_pendaftaran_pejuang_muda",
+      "tag": "periode_wirausaha_merdeka",
       "patterns": [
-        "Bagaimana periode pelaksanaan dan cara mendaftar program Pejuang Muda?"
+        "Bagaimana periode pelaksanaan program wirausaha Merdeka?",
+        "bagaimana periode pelaksanaan program wirausaha merdeka?",
+        "periode dari program wirausaha merdeka"
       ],
       "responses": [
-        "Program berlangsung selama 1 semester. Cara mendaftarnya dengan mengunjungi laman https://pejuangmuda.kemensos.go.id/"
+        "Program berlangsung selama 1 semester"
       ]
     },
     {
-      "tag": "manfaat_pejuang_muda",
+      "tag": "pendaftaran_wirausaha_merdeka",
       "patterns": [
-        "Apa saja manfaat apabila mengikuti Pejuang Muda?",
-        "Apa manfaat dari Pejuang Muda"
+        "bagaimana cara daftar program wirausaha merdeka?",
+        "cara mendaftar program wirausaha merdeka"
       ],
       "responses": [
-        "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, pendampingan langsung dengan Kemensos, mentoring eksklusif, atribut, uang saku, biaya transport, dan anggaran hibah"
+        "Cara mendaftarnya dengan mengunjungi laman https://wirausahamerdeka.kampusmerdeka.kemdikbud.go.id/info/"
       ]
     },
     {
-      "tag": "penjelasan_PMMB",
+      "tag": "tujuan_wirausaha_merdeka",
       "patterns": [
-        "Apa itu PMMB?"
+        "apa saja tujuan dari program wirausaha merdeka?",
+        "apa tujuan dari wirausaha merdeka?",
+        "tujuan dari wirausaha merdeka"
       ],
       "responses": [
-        "PMMB adalah singkatan dari Program Magang Mahasiswa Bersertifikat. PMMB adalah program dari FHCI yang bekerja sama dengan BUMN yang memberi kesempatan kepada mahasiswa untuk menyalurkan potensi dan menggali pengalaman di BUMN"
-      ]
-    },
-    {
-      "tag": "persyaratan_IISMA",
-      "patterns": [
-        "Apa saja persyaratan IISMA?",
-        "Persyaratannya apa saja?",
-        "Persyaratannya apa saja?"
-      ],
-      "responses": [
-        "Merupakan mahasiswa aktif semester 5, memiliki IPK minimal 2.75, mendapatkan izin dari dosen wali dan kaprodi, bersedia ditempatkan di perusahaan yang sudah terdaftar di FHCI"
-      ]
-    },
-    {
-      "tag": "periode_dan_pendaftaran_PMMB",
-      "patterns": [
-        "Bagaimana periode pelaksanaan dan cara mendaftar program PMMB?"
-      ],
-      "responses": [
-        "Program berlangsung selama 1 semester. Cara mendaftarnya dengan mengunjungi website FHCI BUMN atau instagram @fhci.bumn"
-      ]
-    },
-    {
-      "tag": "manfaat_PMMB",
-      "patterns": [
-        "Apa saja manfaat apabila mengikuti PMMB?"
-      ],
-      "responses": [
-        "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, mendapatkan sertifikat industri, mengenal dunia kerja, serta uang saku"
-      ]
-    },
-    {
-      "tag": "mitra_PMMB",
-      "patterns": [
-        "Apa saja universitas yang tergabung dalam program PMMB?"
-      ],
-      "responses": [
-        "Mitra yang tergabung seperti Pertamina, Bank BRI, PT. KBN, dsb. Info lebih lanjut melalui website FHCI BUMN atau instagram @fhci.bumn"
+        "Memantik minat dan semangat mahasiswa dalam berwirausaha, menanamkan mindset dan kompetensi dasar di bidang kewirausahaan, mendorong peningkatan pengalaman wirausaha mahasiswa, meningkatkan kemampuan daya kerja mahasiswa, dan membantu meningkatkan kapasitas dan kualitas lulusan peruguran tinggi"
       ]
     }
   ]
