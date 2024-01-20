@@ -220,9 +220,9 @@
     {
       "tag":"pendaftaran_magang_bersertifikat",
       "patterns": [
-        "bagaimana cara mendaftar magang?",
-        "cara mendaftar program magang",
-        "cara daftar program magang bersertifikat"
+        "bagaimana cara mendaftar magang bersertifikat?",
+        "cara mendaftar program magang bersertifikat",
+        "bagaimana cara daftar program magang bersertifikat?"
       ],
       "responses": [
        "Cara mendaftarnya dengan mengunjungi website https://kampusmerdeka.kemdikbud.go.id/program/magang" 
@@ -288,7 +288,7 @@
       "patterns": [
         "bagaimana cara mendaftar kampus mengajar?",
         "cara mendaftar program kampus mengajar",
-        "cara daftar program kampus mengajar"
+        "bagaimana cara daftar program kampus mengajar?"
       ],
       "responses": [
        "Cara mendaftarnya dengan mengunjungi website https://kampusmerdeka.kemdikbud.go.id/program/mengajar" 
@@ -331,27 +331,30 @@
       ]
     },
     {
-      "tag": "periode_dan_pendaftaran_IISMA",
+      "tag": "periode_IISMA",
       "patterns": [
         "Bagaimana periode pelaksanaan dan cara mendaftar program IISMA?"
       ],
       "responses": [
-        "Program berlangsung selama 1 semester. Cara mendaftarnya dengan mengunjungi laman https://kampusmerdeka.kemdikbud.go.id/km/IISMA/landing.html"
+        "Program berlangsung selama 1 semester"
       ]
     },
     {
-      "tag": "manfaat_IISMA",
+      "tag": "pendaftaran_IISMA",
       "patterns": [
-        "Apa saja manfaat apabila mengikuti IISMA?"
+        "bagaimana cara daftar program IISMA?",
+        "cara mendaftar program IISMA"
       ],
       "responses": [
-        "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, bantuan biaya pendaftaran, pendidikan, serta biaya hidup selama 1 semester, test PCR, karantina, visa, transport, dan asuransi kesehatan"
+        "Cara mendaftarnya dengan mengunjungi laman https://iisma.kemdikbud.go.id/"
       ]
     },
     {
       "tag": "mitra_IISMA",
       "patterns": [
-        "Apa saja universitas yang tergabung dalam program IISMA?"
+        "Apa saja universitas yang tergabung dalam program IISMA?",
+        "mitra apa saja yang tergabung program IISMA?",
+        "apa saja universitas yang tergabung program IISMA?"
       ],
       "responses": [
         "Universitas yang tergabung seperti Boston University, Monash University, Nanyang University, University of Birmingham, dsb. Info lebih lanjut melalui laman https://site.iisma.id/host-universities-list"
@@ -376,7 +379,7 @@
       ]
     },
     {
-      "tag": "periode_dan_pendaftaran_pertukaran_mahasiswa",
+      "tag": "periode_pertukaran_mahasiswa",
       "patterns": [
         "bagaimana periode pelaksanaan program Pertukaran Mahasiswa Merdeka?",
         "bagaimana periode pelaksanaan program pertukaran mahsiswa merdeka?",
@@ -391,7 +394,7 @@
       "patterns": [
         "bagaimana cara mendaftar pertukaran mahasiswa?",
         "cara mendaftar program pertukaran mahasiswa",
-        "cara daftar program pertukaran mahasiswa"
+        "bagaimana cara daftar program pertukaran mahasiswa?"
       ],
       "responses": [
        "Cara mendaftarnya dengan mengunjungi website https://pmm.kampusmerdeka.kemdikbud.go.id/pages/info/program/pmm_4/" 
