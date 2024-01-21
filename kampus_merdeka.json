@@ -86,7 +86,9 @@
       "patterns": [
         "Apa tujuan Kampus Merdeka?",
         "apa tujuan kampus merdeka?",
-        "apa tujuan dari kampus merdeka?"
+        "apa tujuan dari kampus merdeka?",
+        "apa tujuan dari program kampus merdeka?",
+        "tujuan dari program kampus merdeka"
       ],
       "responses": [
         "Tujuan kebijakan Kampus Merdeka adalah memberikan kesempatan kepada mahasiswa untuk memilih mata kuliah yang akan mereka tempuh berdasarkan keinginan sendiri serta mendorong mahasiswa meningkatkan soft skills serta hard skills agar siap bersaing dalam dunia global."
@@ -97,7 +99,9 @@
       "patterns": [
         "apa saja persyaratan ikut kampus merdeka?",
         "apa saja persyaratan kampus merdeka?",
-        "persyaratan apa saja ikut kampus merdeka?"
+        "persyaratan apa saja ikut kampus merdeka?",
+        "apa saja syarat ikut kampus merdeka?",
+        "syarat yang diperlukan program kampus merdeka?"
       ],
       "responses": [
         "Persyaratan mengikuti program Kampus Merdeka, yaitu merupakan mahasiswa yang berasal dari Program Studi terakreditasi dan terdaftar aktif pada PDDikti."
@@ -132,7 +136,8 @@
         "apa saja persyaratan dari studi independen?",
         "persyaratan dari stupen apa saja ya?",
         "pesyaratan yang dibutuhkan stupen?",
-        "persyaratan dari studi independen apa saja ya?"
+        "persyaratan dari studi independen apa saja ya?",
+        "syarat yang diperlukan untuk program studi independen?"
       ],
       "responses": [
         "Tidak ada persyaratan khusus. Seluruh mahasiswa dari perguruan tinggi dan program studi apapun dapat mengikuti program sesuai persyaratan setiap mitra"
@@ -200,6 +205,7 @@
       "patterns": [
         "Apa saja persyaratan Magang Bersertifikat?",
         "persyaratan mengikuti program magang?",
+        "apa saja syarat daftar magang bersertifikat?",
         "apa saja persyaratan ikut magang bersertifikat?",
         "persyaratan ikut program magang bersertifikat?"
       ],
@@ -245,7 +251,8 @@
       "patterns": [
         "Apa saja mitra yang tergabung dalam Magang Bersertifikat?",
         "mitra yang tergabung pada program magang",
-        "mitra apa saja yang ada di program magang?"
+        "mitra apa saja yang ada di program magang?",
+        "mitra apa saja yang ada di program magang bersertifikat?"
       ],
       "responses": [
         "Mitra yang tergabung seperti Telkom Indonesia, XL Axiata, MAP, Bank BRI, Shopee, Tokopedia, Traveloka, dsb. Info lebih lanjut melalui laman https://kampusmerdeka.kemdikbud.go.id/program/magang/browse"
@@ -332,6 +339,17 @@
       ]
     },
     {
+      "tag": "manfaat_IISMA",
+      "patterns": [
+        "Apa saja manfaat apabila mengikuti IISMA?",
+        "manfaat yang didapat jika ikut program IISMA?",
+        "apa manfaat dari program IISMA?"
+      ],
+      "responses": [
+        "Manfaat yang didapatkan, yaitu konversi SKS hingga 20 sks, networking, bantuan biaya pendaftaran, pendidikan, serta biaya hidup selama 1 semester, test PCR, karantina, visa, transport, dan asuransi kesehatan"
+      ]
+    },
+    {
       "tag": "periode_IISMA",
       "patterns": [
         "Bagaimana periode pelaksanaan dan cara mendaftar program IISMA?"
@@ -362,25 +380,31 @@
       ]
     },
     {
-      "tag": "penjelasan_pertukaran_mahasiswa",
+      "tag": "penjelasan_pertukaran_mahasiswa_merdeka",
       "patterns": [
-        "Apa itu Pertukaran Mahasiswa Merdeka?"
+        "Apa itu Pertukaran Mahasiswa Merdeka?",
+        "apa itu pertukaran mahasiswa merdeka?",
+        "pertukaran mahasiswa merdeka itu apa?",
+        "jelaskan pertukaran mahasiswa merdeka"
       ],
       "responses": [
         "Pertukaran Mahasiswa Merdeka merupakan pertukaran pelajar dengan program studi yang sama ke Perguruan Tinggi berbeda maupun pertukaran pelajar dengan program studi berbeda ke Perguruan Tinggi berbeda. Kegiatan pembelajaran dapat secara tatap muka atau daring. Program ini bertujuan untuk memperkaya pengalaman dan konteks keilmuan mahasiswa"
       ]
     },
     {
-      "tag": "persyaratan_pertukaran_mahasiswa",
+      "tag": "persyaratan_pertukaran_mahasiswa_merdeka",
       "patterns": [
-        "Apa saja persyaratan Pertukaran Mahasiswa Merdeka?"
+        "Apa saja persyaratan Pertukaran Mahasiswa Merdeka?",
+        "apa saja syarat ikut pertukaran mahasiswa merdeka?",
+        "syarat yang diperlukan untuk program pertukaran mahasiswa?",
+        "apa saja syarat mengikuti program pertukaran mahasiswa merdeka?"
       ],
       "responses": [
         "Merupakan mahasiswa aktif semester 3, 5, dan 7, memiliki IPK minimal 2.75, memiliki pengalaman prestasi non-akademik tingkat daerah/nasional/internasional, tidak pernah dikenakan sanksi akademik maupun non-akademik, serta mendapatkan surat rekomendasi dari Perguruan Tinggi dan izin orang tua"
       ]
     },
     {
-      "tag": "periode_pertukaran_mahasiswa",
+      "tag": "periode_pertukaran_mahasiswa_merdeka",
       "patterns": [
         "bagaimana periode pelaksanaan program Pertukaran Mahasiswa Merdeka?",
         "bagaimana periode pelaksanaan program pertukaran mahsiswa merdeka?",
@@ -391,7 +415,7 @@
       ]
     },
     {
-      "tag":"pendaftaran_pertukaran_mahasiswa",
+      "tag":"pendaftaran_pertukaran_mahasiswa_merdeka",
       "patterns": [
         "bagaimana cara mendaftar pertukaran mahasiswa?",
         "cara mendaftar program pertukaran mahasiswa",
@@ -402,7 +426,7 @@
       ]
     },
     {
-      "tag": "manfaat_pertukaran_mahasiswa",
+      "tag": "manfaat_pertukaran_mahasiswa_merdeka",
       "patterns": [
         "Apa saja manfaat apabila mengikuti Pertukaran Mahasiswa Merdeka?",
         "manfaat dari program pertukaran mahasiswa merdeka",
@@ -416,8 +440,8 @@
     {
       "tag": "penjelasan_wirausaha_merdeka",
       "patterns": [
-        "Apa itu Wirausaha Merdeka?",
-        "wirausaha itu apa ya?",
+        "apa itu wirausaha merdeka?",
+        "wirausaha merdeka itu apa ya?",
         "jelaskan apa itu wirausaha merdeka"
       ],
       "responses": [
@@ -427,7 +451,7 @@
     {
       "tag": "persyaratan_wirausaha_merdeka",
       "patterns": [
-        "Apa saja persyaratan wirausaha merdeka?",
+        "apa saja persyaratan wirausaha merdeka?",
         "apa saja syarat program wirausaha merdeka?",        
         "persyaratan dari program wirausaha merdeka?"
       ],
@@ -438,7 +462,6 @@
     {
       "tag": "periode_wirausaha_merdeka",
       "patterns": [
-        "Bagaimana periode pelaksanaan program wirausaha Merdeka?",
         "bagaimana periode pelaksanaan program wirausaha merdeka?",
         "periode dari program wirausaha merdeka"
       ],
