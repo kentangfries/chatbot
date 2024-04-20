@@ -5,9 +5,14 @@
       "patterns": [
         "hai",
         "halo",
-        "hei",
+        "helo",
         "hi",
-        "hola"
+        "hola",
+        "hai ibot",
+        "halo ibot",
+        "helo ibot",
+        "hi ibot",
+        "hola ibot"
       ],
       "responses": [
         "Halo! Saya ibot, salam kenal ya! Mau tau tentang kampus merdeka, kan?",
@@ -98,6 +103,7 @@
       "tag": "persyaratan_kampus_merdeka",
       "patterns": [
         "apa saja persyaratan ikut kampus merdeka?",
+        "apa saja persyaratan daftar kampus merdeka?",
         "apa saja persyaratan kampus merdeka?",
         "persyaratan apa saja ikut kampus merdeka?",
         "apa saja syarat ikut kampus merdeka?",
@@ -111,6 +117,9 @@
       "tag": "program_kampus_merdeka",
       "patterns": [
         "program dari kampus merdeka",
+        "apa saja program yang ada dikampus merdeka?",
+        "apa saja program kampus merdeka?",
+        "program yang ada dikampus merdeka",
         "program apa saja yang ada di kampus merdeka?"
       ],
       "responses": [
